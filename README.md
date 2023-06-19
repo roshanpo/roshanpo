@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>🔭 I’m currently working on authentication on server side </p>
 <p>🌱 I’m currently learning React </p>
 
 <h3 align="left">Connect with me:</h3>
